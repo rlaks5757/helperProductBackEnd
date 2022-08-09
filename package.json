@@ -1,0 +1,21 @@
+{
+  "name": "dts-helper",
+  "version": "0.0.1",
+  "description": "DTS Helper",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ZeroCho",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.8",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16",
+    "nunjucks": "^3.2.3"
+  }
+}
